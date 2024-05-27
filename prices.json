@@ -343,21 +343,42 @@
     "output": 8.572
   },
   {
-    "model": "ERNIE-Bot-8k",
-    "type": "tokens",
-    "channel_type": 15,
-    "input": 1.7143,
-    "output": 3.4286
-  },
-  {
     "model": "ERNIE-Bot-turbo",
     "type": "tokens",
     "channel_type": 15,
-    "input": 0.5715,
-    "output": 0.5715
+    "input": 0,
+    "output": 0
   },
   {
     "model": "ERNIE-Speed",
+    "type": "tokens",
+    "channel_type": 15,
+    "input": 0,
+    "output": 0
+  },
+  {
+    "model": "ERNIE-Speed-128K",
+    "type": "tokens",
+    "channel_type": 15,
+    "input": 0,
+    "output": 0
+  },
+  {
+    "model": "ERNIE-Lite-8K",
+    "type": "tokens",
+    "channel_type": 15,
+    "input": 0,
+    "output": 0
+  },
+  {
+    "model": "ERNIE-Tiny-8K",
+    "type": "tokens",
+    "channel_type": 15,
+    "input": 0,
+    "output": 0
+  },
+  {
+    "model": "ERNIE-Functions-8K",
     "type": "tokens",
     "channel_type": 15,
     "input": 0.2857,
@@ -388,8 +409,8 @@
     "model": "glm-3-turbo",
     "type": "tokens",
     "channel_type": 16,
-    "input": 0.3572,
-    "output": 0.3572
+    "input": 0.0714,
+    "output": 0.0714
   },
   {
     "model": "glm-4",
@@ -409,29 +430,36 @@
     "model": "qwen-max",
     "type": "tokens",
     "channel_type": 17,
-    "input": 8.5714,
+    "input": 2.8571,
     "output": 8.5714
   },
   {
     "model": "qwen-max-longcontext",
     "type": "tokens",
     "channel_type": 17,
-    "input": 8.5714,
+    "input": 2.8571,
     "output": 8.5714
   },
   {
     "model": "qwen-plus",
     "type": "tokens",
     "channel_type": 17,
-    "input": 1.4286,
-    "output": 1.4286
+    "input": 0.2857,
+    "output": 0.8571
   },
   {
     "model": "qwen-turbo",
     "type": "tokens",
     "channel_type": 17,
-    "input": 0.5715,
-    "output": 0.5715
+    "input": 0.1429,
+    "output": 0.4286
+  },
+  {
+    "model": "qwen-long",
+    "type": "tokens",
+    "channel_type": 17,
+    "input": 0.0357,
+    "output": 0.1429
   },
   {
     "model": "qwen-vl-max",
@@ -455,39 +483,25 @@
     "output": 0.05
   },
   {
-    "model": "SparkDesk",
-    "type": "tokens",
-    "channel_type": 18,
-    "input": 1.2858,
-    "output": 1.2858
-  },
-  {
     "model": "SparkDesk-v1.1",
     "type": "tokens",
     "channel_type": 18,
-    "input": 1.2858,
-    "output": 1.2858
-  },
-  {
-    "model": "SparkDesk-v2.1",
-    "type": "tokens",
-    "channel_type": 18,
-    "input": 1.2858,
-    "output": 1.2858
+    "input": 0,
+    "output": 0
   },
   {
     "model": "SparkDesk-v3.1",
     "type": "tokens",
     "channel_type": 18,
-    "input": 1.2858,
-    "output": 1.2858
+    "input": 2.1429,
+    "output": 2.1429
   },
   {
     "model": "SparkDesk-v3.5",
     "type": "tokens",
     "channel_type": 18,
-    "input": 1.2858,
-    "output": 1.2858
+    "input": 2.1429,
+    "output": 2.1429
   },
   {
     "model": "360GPT_S2_V9",
@@ -1034,6 +1048,34 @@
     "channel_type": 37,
     "input": 15,
     "output": 15
+  },
+  {
+    "model": "hunyuan-lite",
+    "type": "tokens",
+    "channel_type": 40,
+    "input": 0,
+    "output": 0
+  },
+  {
+    "model": "hunyuan-standard",
+    "type": "tokens",
+    "channel_type": 40,
+    "input": 0.3214,
+    "output": 0.3571
+  },
+  {
+    "model": "hunyuan-standard-256k",
+    "type": "tokens",
+    "channel_type": 40,
+    "input": 1.0714,
+    "output": 4.2857
+  },
+  {
+    "model": "hunyuan-pro",
+    "type": "tokens",
+    "channel_type": 37,
+    "input": 2.1429,
+    "output": 7.1429
   },
   {
     "model": "coze-*",
