@@ -175,6 +175,34 @@
     "output": 0.3
   },
   {
+    "model": "gpt-4o-realtime-preview",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 2.5,
+    "output": 10
+  },
+  {
+    "model": "gpt-4o-realtime-preview-2024-10-01",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 2.5,
+    "output": 10
+  },
+  {
+    "model": "gpt-4o-audio-preview",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 1.25,
+    "output": 5
+  },
+  {
+    "model": "gpt-4o-audio-preview-2024-10-01",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 1.25,
+    "output": 5
+  },
+  {
     "model": "gpt-4-0125-preview",
     "type": "tokens",
     "channel_type": 1,
@@ -343,6 +371,20 @@
     "output": 0.625
   },
   {
+    "model": "claude-3-5-haiku-20241022",
+    "type": "tokens",
+    "channel_type": 14,
+    "input": 0.5,
+    "output": 2.5
+  },
+  {
+    "model": "claude-3-5-haiku-latest",
+    "type": "tokens",
+    "channel_type": 14,
+    "input": 0.5,
+    "output": 2.5
+  },
+  {
     "model": "claude-3-opus-20240229",
     "type": "tokens",
     "channel_type": 14,
@@ -358,6 +400,20 @@
   },
   {
     "model": "claude-3-5-sonnet-20240620",
+    "type": "tokens",
+    "channel_type": 14,
+    "input": 1.5,
+    "output": 7.5
+  },
+  {
+    "model": "claude-3-5-sonnet-20241022",
+    "type": "tokens",
+    "channel_type": 14,
+    "input": 1.5,
+    "output": 7.5
+  },
+  {
+    "model": "claude-3-5-sonnet-latest",
     "type": "tokens",
     "channel_type": 14,
     "input": 1.5,
@@ -1006,6 +1062,69 @@
     "channel_type": 33,
     "input": 0.4286,
     "output": 0.4286
+  },
+  {
+    "model": "yi-lightning",
+    "type": "tokens",
+    "channel_type": 33,
+    "input": 0.0707,
+    "output": 0.0707
+  },
+  {
+    "model": "yi-large",
+    "type": "tokens",
+    "channel_type": 33,
+    "input": 1.4286,
+    "output": 1.4286
+  },
+  {
+    "model": "yi-medium",
+    "type": "tokens",
+    "channel_type": 33,
+    "input": 0.1786,
+    "output": 0.1786
+  },
+  {
+    "model": "yi-vision",
+    "type": "tokens",
+    "channel_type": 33,
+    "input": 0.4286,
+    "output": 0.4286
+  },
+  {
+    "model": "yi-medium-200k",
+    "type": "tokens",
+    "channel_type": 33,
+    "input": 0.8571,
+    "output": 0.8571
+  },
+  {
+    "model": "yi-spark",
+    "type": "tokens",
+    "channel_type": 33,
+    "input": 0.0714,
+    "output": 0.0714
+  },
+  {
+    "model": "yi-large-rag",
+    "type": "tokens",
+    "channel_type": 33,
+    "input": 1.7857,
+    "output": 1.7857
+  },
+  {
+    "model": "yi-large-fc",
+    "type": "tokens",
+    "channel_type": 33,
+    "input": 1.4286,
+    "output": 1.4286
+  },
+  {
+    "model": "yi-large-turbo",
+    "type": "tokens",
+    "channel_type": 33,
+    "input": 0.8571,
+    "output": 0.8571
   },
   {
     "model": "mj_blend",
